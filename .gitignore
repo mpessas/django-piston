@@ -1,4 +1,3 @@
-syntax: glob
 *.egg
 *.pyc
 build
@@ -10,6 +9,5 @@ downloads
 .installed.cfg
 develop-eggs
 .DS_Store
-.svn
 *.swp
 docs/_build
